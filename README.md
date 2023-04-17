@@ -4,7 +4,7 @@
 <img src="https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2020/11/03.gif?w=680&h=453&crop=1" width="500" alig >
 </p>
 
-- 💻 I'm a Front-end developer in Javascript/React.js/CSS/Design Responsivo and Back-end developer with Node.js/Mongo.DB/Express.js/APIRestFul. 
+- 💻 I'm a Front-end developer in Javascript/React.js/CSS/SASS/Design Responsivo and Back-end developer with Node.js/Mongo.DB/Express.js/APIRestFul. 
 - 📗 I’m currently studying on the project CDD 4.0 by Instituto Aliança and EAD with teacher Thiago Medeiros at the course Full-Stack Developer.
 - 🚀 I’m currently learning React.js,Next.js, Python, Banco de Dados.
 - 😄 he/him
@@ -17,6 +17,7 @@
   <img text-align="center" alt="Mathias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img text-align="center" alt="Mathias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img text-align="center" alt="Mathias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
   <img text-align="center" alt="Mathias-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img text-align="center" alt="Mathias-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img text-align="center" alt="Mathias-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
