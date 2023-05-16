@@ -6,7 +6,7 @@
 
 - 💻 I'm a Front-end developer in Javascript/React.js/CSS/SASS/Design Responsivo and Back-end developer with Node.js/Mongo.DB/Express.js/APIRestFul. 
 - 📗 I’m currently studying on the project CDD 4.0 by Instituto Aliança and EAD with teacher Thiago Medeiros at the course Full-Stack Developer, and I'll start at August Analysis and Systems Development in University UniFatecie.
-- 🚀 I’m currently learning React.js,Next.js, Python, Banco de Dadosand Java.
+- 🚀 I’m currently learning React.js,Next.js, Python, Banco de Dados and Java.
 - 😄 he/him
 
 
