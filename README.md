@@ -37,7 +37,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MathiasSoares434&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MathiasSoares434&theme=github-compact)](https://github.com/MathiasSoares434/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MathiasSoares434)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ##
 
 
