@@ -5,8 +5,8 @@
 </p>
 
 - 💻 I'm a Front-end developer in Python//jAVAJavascript/React.js/CSS/SASS/Design Responsivo and Back-end developer with Node.js/Mongo.DB/Express.js/APIRestFul, MySQL. 
-- 📗 I’m currently studying on the project CDD 4.0 by Instituto Aliança and EAD with teacher Thiago Medeiros at the course Full-Stack Developer, Data Analytics of Google, Nano Courses - FIAP and Analysis and Systems Development in University UniFatecie.
-- 🚀 I’m currently learning  Data Analytics of Google, Artificial Intelligence, Cloud Fundamentals, DevOps and Agile Culture, React.js and Next.js.
+- 📗 I’m currently studying on the project CDD 4.0 by Instituto Aliança and EAD with teacher Thiago Medeiros at the course Full-Stack Developer, Data Analytics of Google, Nano Courses - FIAP, Data Analytics of Google and Analysis, Artificial Intelligence, Cloud Fundamentals and Systems Development in University UniFatecie.
+- 🚀 I’m currently learning Ruby languaging, API Rails, React.js and Next.js.
 - 😄 he/him
 
 
@@ -23,6 +23,7 @@
   <img text-align="center" alt="Mathias-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img text-align="center" alt="Mathias-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img text-align="center" alt="Mathias-Mongo" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+   <img text-align="center" alt="Mathias-Ruby" height="30" width="40" src="https://img.icons8.com/?size=100&id=22189&format=png&color=000000">
   </p>
 
 
