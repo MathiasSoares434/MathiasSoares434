@@ -4,9 +4,14 @@
 <img src="https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2020/11/03.gif?w=680&h=453&crop=1" width="500" alig >
 </p>
 
-- 💻 I'm a Front-end developer in Python//jAVAJavascript/React.js/CSS/SASS/Design Responsivo and Back-end developer with Node.js/Mongo.DB/Express.js/APIRestFul, MySQL. 
-- 📗 I’m currently studying on the project CDD 4.0 by Instituto Aliança and EAD with teacher Thiago Medeiros at the course Full-Stack Developer, Data Analytics of Google, Nano Courses - FIAP, Data Analytics of Google and Analysis, Artificial Intelligence, Cloud Fundamentals and Systems Development in University UniFatecie.
-- 🚀 I’m currently learning Ruby languaging, Ruby on Rails, React.js and Next.js.
+- 💻 I'm a Front-end developer in Python//jAVAJavascript/React.js/CSS/SASS/Design Responsivo and Back-end developer with Node.js/Mongo.DB/Express.js/APIRestFul, MySQL, Ruby, Ruby on Rails. 
+- 📗 I have completed the following courses and certifications:
+      CDD 4.0 by Instituto Aliança (EAD) with teacher Thiago Medeiros
+      Full-Stack Developer from Softex, Formação Acelerada em Programação
+      Data Analytics by Google (Nano Courses - FIAP)
+      Artificial Intelligence
+      Cloud Fundamentals
+- 🚀 I’m currently learning React.js and Next.js and finishing my at course Systems and Analysis Development at UniFatecie University.
 - 😄 he/him
 
 
