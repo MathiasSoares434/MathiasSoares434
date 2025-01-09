@@ -6,10 +6,11 @@
 
 - 💻 I'm a Front-end developer in Python//jAVAJavascript/React.js/CSS/SASS/Design Responsivo and Back-end developer with Node.js/Mongo.DB/Express.js/APIRestFul, MySQL, Ruby, Ruby on Rails. 
 - 📗 I have completed the following courses and certifications:
-      CDD 4.0 by Instituto Aliança (EAD) with teacher Thiago Medeiros
-      Full-Stack Developer from Softex, Formação Acelerada em Programação
-      Data Analytics by Google (Nano Courses - FIAP)
-      Artificial Intelligence
+      CDD 4.0 by Instituto Aliança 
+      Full-Stack Developer from EAD with teacher Thiago Medeiros
+      Formação Acelerada em Programação from Softex
+      Data Analytics by Google 
+      Artificial Intelligence (Nano Courses - FIAP)
       Cloud Fundamentals
 - 🚀 I’m currently learning React.js and Next.js and finishing my at course Systems and Analysis Development at UniFatecie University.
 - 😄 he/him
